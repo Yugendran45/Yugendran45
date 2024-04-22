@@ -26,7 +26,7 @@ public class Authorization_APIkey {
 	
 	public static void main(String[] args) {
 		Authorization_APIkey api = new Authorization_APIkey();
-		api.parampass();
+		api.Apikey	();
 	}
 
 }
