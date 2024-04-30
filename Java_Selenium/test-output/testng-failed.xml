@@ -3,11 +3,14 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="POJA_class.Hamcreastmactersjsonschema">
+      <class name="Automationcodepracticearea.Differcode_pratice_area">
         <methods>
-          <include name="ValidateSchema"/>
+          <include name="Auto_suggestion"/>
+          <include name="Scrollandclick"/>
+          <include name="before_lanch_url"/>
+          <include name="Randomworkit"/>
         </methods>
-      </class> <!-- POJA_class.Hamcreastmactersjsonschema -->
+      </class> <!-- Automationcodepracticearea.Differcode_pratice_area -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
