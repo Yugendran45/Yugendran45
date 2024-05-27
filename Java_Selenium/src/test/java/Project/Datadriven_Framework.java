@@ -19,7 +19,7 @@ import org.testng.annotations.Test;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class Example4 {
+public class Datadriven_Framework {
 	
 	WebDriver driver;
 

@@ -38,7 +38,7 @@ public class JWAY_Json_path {
 	 
 	public static void main(String[] args) throws IOException {
 		JWAY_Json_path js = new JWAY_Json_path();
-		js.Fluentapi();
+		js.parseonetime();
 	}
 
 }

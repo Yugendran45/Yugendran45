@@ -3,14 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Automationcodepracticearea.Differcode_pratice_area">
+      <class name="Project.Example4">
         <methods>
-          <include name="Auto_suggestion"/>
-          <include name="Scrollandclick"/>
-          <include name="before_lanch_url"/>
-          <include name="Randomworkit"/>
+          <include name="Lanuch_browser"/>
+          <include name="Basicexcelimport"/>
         </methods>
-      </class> <!-- Automationcodepracticearea.Differcode_pratice_area -->
+      </class> <!-- Project.Example4 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
